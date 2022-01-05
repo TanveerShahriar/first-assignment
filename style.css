@@ -4,7 +4,7 @@ body{
 }
 
 p{
-    font-size: 25px;
+    font-size: 20px;
     margin-top: 50px;
 }
 
@@ -16,9 +16,35 @@ h1{
     line-height: 60px;
 }
 
+h2{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+
 #vertical-line{
     border-left: 5px solid blueviolet;
     border-radius: 5px;
+}
+
+#mission{
+    background-color: lightpink;
+    border-radius: 30px;
+}
+
+#vision{
+    background-color: lightcyan;
+    border-radius: 30px;
+}
+
+#goals{
+    background-color: lightgray;
+    border-radius: 30px;
 }
 
 .flex-section{
@@ -49,4 +75,15 @@ h1{
     background-color: blueviolet;
     padding: 10px 40px;
     border-radius: 10px;
+}
+
+.one-third{
+    margin: 40px;
+    width: 33%;
+    padding: 40px;
+}
+
+.one-third img{
+    height: 250px;
+    width: auto;
 }
