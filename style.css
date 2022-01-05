@@ -27,6 +27,12 @@ h3{
     font-weight: 700;
 }
 
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
 #vertical-line{
     border-left: 5px solid blueviolet;
     border-radius: 5px;
