@@ -47,8 +47,8 @@ footer{
     padding: 20px;
     border: 5px solid teal;
     border-radius: 50px;
-    background-color: tomato;
-    box-shadow: 20px 10px 80px teal;
+    background-color: rgb(235, 247, 235);
+    box-shadow: 20px 10px 80px rgba(0, 128, 128, 0.486);
 }
 
 #myself h1{
