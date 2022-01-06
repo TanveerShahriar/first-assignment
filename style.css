@@ -40,6 +40,20 @@ footer{
     border-radius: 5px;
 }
 
+#myself{
+    color: rgba(65, 35, 35, 0.8);
+    margin: 50px 50px 150px;
+    padding: 20px;
+    border: 5px solid teal;
+    border-radius: 50px;
+    background-color: tomato;
+    box-shadow: 20px 10px 80px teal;
+}
+
+#myself h1{
+    padding: 0;
+}
+
 #mission{
     background-color: lightpink;
     border-radius: 30px;
